@@ -25,7 +25,7 @@ Unity v5.6.0b7
 
 #### Booths
 
-1. Stage - The user can play music and turn off the lights in the room.
+1. Stage - The user can play music and turn off the lights.
 
 2. Live Performance - The user can activate up to 5 buttons and each button plays a different audio sample loop. Each sample is warped to the same BPM, and the time samples for each track are synchronized to a muted master track. This means the user can play and stop sounds and they will stay in sync.
 
@@ -33,7 +33,7 @@ Unity v5.6.0b7
 
 4. Audio Visualizer - The user can play a song, and 3D shapes will expand and contract depending on the amplitude of the frequency band the shape is assigned to. The shapes also change their emission properties depending on the amplitude of their assigned frequency band.
 
-5. Remote Collaboration - This booth explains how VR could affect the music industry by allowing many people to connect and create music without being bound to a physical space.
+5. Remote Collaboration - This booth explains how VR could affect the music industry by enabling many people to connect and create music without being bound to a physical space.
 
 #### My experience building this application
 
